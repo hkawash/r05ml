@@ -12,7 +12,7 @@
 |1 |2023/04/10 |[機械学習の概要](slide/MachineLearning2023_01.pdf) / [副教材1](slide/ml2023intro_01.pdf)|
 |2 |2023/04/17 |[確率モデルと機械学習](slide/MachineLearning2023_02.pdf) / [副教材2](slide/ml2023intro_02.pdf)|
 |3 |2023/04/24 |[教師あり学習（回帰モデル）](slide/MachineLearning2023_03.pdf) / [副教材3](slide/ml2023intro_03.pdf)|
-|4 |2023/05/01 |教師あり学習（分類モデル）|
+|4 |2023/05/01 |[教師あり学習（分類モデル）](slide/MachineLearning2023_04.pdf) / [副教材4](slide/ml2023intro_04.pdf)|
 |5 |2023/05/08 |アンサンブル学習|
 |6 |2023/05/15 |演習1|
 |7 |2023/05/22 |ニューラルネットの基礎|
