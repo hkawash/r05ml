@@ -15,7 +15,7 @@
 |4 |2023/05/01 |[教師あり学習（分類モデル）](slide/MachineLearning2023_04.pdf) / [副教材4](slide/ml2023intro_04.pdf)|
 |5 |2023/05/08 |[アンサンブル学習](slide/MachineLearning2023_05.pdf) / [副教材5](slide/ml2023intro_05.pdf) / [レポート1解答](slide/MachineLearning2023_report1_answer.pdf) / [宿題解答](slide/MachineLearning2023_04-05_suppl.pdf)|
 |6 |2023/05/15 |[演習1](slide/MachineLearning2023_06.pdf)|
-|7 |2023/05/22 |ニューラルネットの基礎|
+|7 |2023/05/22 |[ニューラルネットの基礎](slide/MachineLearning2023_07.pdf) / [副教材6](slide/ml2023intro_06.pdf)|
 |8 |2023/05/29 |ディープラーニング（深層学習）|
 |9 |2023/06/05 |演習2|
 |10|2023/06/12 |畳み込みニューラルネット|
@@ -27,7 +27,6 @@
 |16|2023/0?/?? |評価（到達度の確認）|
 
 <!-- 
-|7 |2023/05/22 |[ニューラルネットの基礎](slide/MachineLearning2023_07.pdf) / [副教材6](slide/ml2023intro_06.pdf)|
 |8 |2023/05/29 |[ディープラーニング（深層学習）](slide/MachineLearning2023_08.pdf)|
 |9 |2023/06/05 |[演習2](slide/MachineLearning2023_09.pdf)|
 |10|2023/06/12 |[畳み込みニューラルネット](slide/MachineLearning2023_10.pdf)|
